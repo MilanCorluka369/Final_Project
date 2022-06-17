@@ -1,4 +1,4 @@
-package com.bootcamp.final_project.pages.alerts_frame_windows_pages;
+package com.bootcamp.final_project.pages.alerts.frame.windows.pages;
 
 import com.bootcamp.final_project.pages.BasePage;
 import org.openqa.selenium.By;

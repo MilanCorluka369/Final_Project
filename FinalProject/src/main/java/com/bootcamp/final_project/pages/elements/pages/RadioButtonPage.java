@@ -1,4 +1,4 @@
-package com.bootcamp.final_project.pages.elements_pages;
+package com.bootcamp.final_project.pages.elements.pages;
 
 import com.bootcamp.final_project.pages.BasePage;
 import org.openqa.selenium.By;

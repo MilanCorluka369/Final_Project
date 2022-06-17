@@ -1,9 +1,9 @@
 package com.bootcamp.final_project.tests;
 
-import com.bootcamp.final_project.pages.alerts_frame_windows_pages.AlertsPage;
-import com.bootcamp.final_project.pages.alerts_frame_windows_pages.BrowserWindowsPage;
-import com.bootcamp.final_project.pages.alerts_frame_windows_pages.ModalPage;
-import com.bootcamp.final_project.pages.elements_pages.*;
+import com.bootcamp.final_project.pages.alerts.frame.windows.pages.AlertsPage;
+import com.bootcamp.final_project.pages.alerts.frame.windows.pages.BrowserWindowsPage;
+import com.bootcamp.final_project.pages.alerts.frame.windows.pages.ModalPage;
+import com.bootcamp.final_project.pages.elements.pages.*;
 import com.bootcamp.final_project.pages.HomePage;
 import lombok.Getter;
 import org.openqa.selenium.WebDriver;
