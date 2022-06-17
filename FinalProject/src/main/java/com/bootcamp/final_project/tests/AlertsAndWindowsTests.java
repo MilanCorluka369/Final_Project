@@ -35,6 +35,7 @@ public class AlertsAndWindowsTests extends BaseTest{
      * on New Window Message
      */
     @Test (priority = 3)
+    @Ignore
     public void testNewWindowMessage() {
         getHomePage().clickOnAlertsCard();
         getBrowserWindowsPage().navigateToNewWindowMessage();
