@@ -4,7 +4,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Screenshots](#screenshots)
+* [Illustrations](#illustrations)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
@@ -25,3 +25,9 @@
 - Selenium - version 4.2.1
 - TestNG - version 7.5
 - Project Lombok - version 1.18.24
+
+
+## Illustrations
+Below are video recordings of test executions:
+
+1. Elements Section tests
