@@ -41,7 +41,7 @@ Below are video recordings of test executions:
 
 ## Setup
 - Install JDK
-- Use IntelliJ (Community Edition)
+- Install and use IntelliJ (Community Edition)
 
 - Dependencies which are used in project are listed in pom.xml file:
 ```
