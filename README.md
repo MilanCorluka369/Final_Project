@@ -6,7 +6,6 @@
 * [Technologies Used](#technologies-used)
 * [Illustrations](#illustrations)
 * [Setup](#setup)
-* [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
@@ -62,3 +61,7 @@ Below are video recordings of test executions:
     <scope>provided</scope>
 </dependency>
 ```
+
+
+## Project Status
+Project is: _in progress_
