@@ -38,3 +38,22 @@ Below are video recordings of test executions:
 
 ![AlertsAndWindowsTests](https://user-images.githubusercontent.com/105938336/174458071-54638ba9-656b-4553-916b-073dbd6c4c8f.gif)
 
+
+## Setup
+Dependencies which are used in project are listed in pom.xml file:
+<dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>4.2.1</version>
+</dependency>
+<dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>7.5</version>
+</dependency>
+<dependency>
+    <groupId>org.projectlombok</groupId>
+    <artifactId>lombok</artifactId>
+    <version>1.18.24</version>
+    <scope>provided</scope>
+</dependency>
