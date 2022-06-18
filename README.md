@@ -43,7 +43,7 @@ Below are video recordings of test executions:
 - Install and use IntelliJ (Community Edition)
 
 - Dependencies which are used in project are listed in pom.xml file:
-```
+```java
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
@@ -64,4 +64,4 @@ Below are video recordings of test executions:
 
 
 ## Project Status
-Project is: _in progress_
+Project is: **_in progress_**
