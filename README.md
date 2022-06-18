@@ -41,7 +41,7 @@ Below are video recordings of test executions:
 
 ## Setup
 Dependencies which are used in project are listed in pom.xml file:
-<dependency>
+`<dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
     <version>4.2.1</version>
@@ -56,4 +56,4 @@ Dependencies which are used in project are listed in pom.xml file:
     <artifactId>lombok</artifactId>
     <version>1.18.24</version>
     <scope>provided</scope>
-</dependency>
+</dependency>`
