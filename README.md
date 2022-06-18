@@ -18,3 +18,10 @@
 - Project intended to test the quality of the site.
 - The purpose of this project is to improve automation and manual testing skills.
 - It is a final project of IT Bootcamp course, to test our acquired knowledge.
+
+
+## Technologies Used
+- Java (JDK) - version 18.0.1
+- Selenium - version 4.2.1
+- TestNG - version 7.5
+- Project Lombok - version 1.18.24
