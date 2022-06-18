@@ -40,7 +40,10 @@ Below are video recordings of test executions:
 
 
 ## Setup
-Dependencies which are used in project are listed in pom.xml file:
+- Install JDK
+- Use IntelliJ (Community Edition)
+
+- Dependencies which are used in project are listed in pom.xml file:
 ```
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
