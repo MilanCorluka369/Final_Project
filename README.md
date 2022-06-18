@@ -31,3 +31,5 @@
 Below are video recordings of test executions:
 
 1. Elements Section tests
+
+![ElementsTests](https://user-images.githubusercontent.com/105938336/174457890-bddfbe42-7073-4a8f-9740-112c873723ab.gif)
