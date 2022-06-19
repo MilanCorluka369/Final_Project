@@ -41,7 +41,7 @@ Below are video recordings of test executions:
 - Install and use IntelliJ (Community Edition)
 - ChromeDriver is located in ./FinalProject/driver-lib/chromedriver.exe
 
-- Dependencies that are used in the project are listed in pom.xml file:
+- Dependencies that are used in the project are listed in ./FinalProject/pom.xml file:
 ```java
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
