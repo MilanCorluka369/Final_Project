@@ -39,7 +39,7 @@ Below are video recordings of test executions:
 ## Setup
 - Install JDK
 - Install and use IntelliJ (Community Edition)
-- ChromeDriver is located in ./FinalProject/driver-lib
+- ChromeDriver is located in ./FinalProject/driver-lib/chromedriver.exe
 
 - Dependencies which are used in project are listed in pom.xml file:
 ```java
