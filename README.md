@@ -6,7 +6,6 @@
 * [Technologies Used](#technologies-used)
 * [Illustrations](#illustrations)
 * [Setup](#setup)
-* [Project Status](#project-status)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
