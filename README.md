@@ -67,3 +67,5 @@ Below are video recordings of test executions:
 - Many thanks to [IT Bootcamp](https://itbootcamp.rs/) team and my colleagues, for incredible experience. 
 
 
+## Contact
+Created by [Milan Corluka](https://www.linkedin.com/in/milan-%C4%87orluka-95633323a/) - feel free to contact me!
