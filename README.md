@@ -11,7 +11,7 @@
 
 
 ## General Information
-- The main task of this project is to automate the [demoqa.com](https://demoqa.com/) site, which contains different kinds of training modules like contact forms, menus to select, buttons to click etc.
+- The main task of this project is to automate the [demoqa.com](https://demoqa.com/) site, which contains different kinds of training modules like contact forms, menus to select, buttons to click, etc.
 - Project intended to test the quality of the site.
 - The purpose of this project is to improve automation and manual testing skills.
 - It is a final project of IT Bootcamp course, to test our acquired knowledge.
@@ -41,7 +41,7 @@ Below are video recordings of test executions:
 - Install and use IntelliJ (Community Edition)
 - ChromeDriver is located in ./FinalProject/driver-lib/chromedriver.exe
 
-- Dependencies which are used in project are listed in pom.xml file:
+- Dependencies that are used in the project are listed in pom.xml file:
 ```java
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
