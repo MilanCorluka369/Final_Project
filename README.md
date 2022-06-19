@@ -7,7 +7,6 @@
 * [Illustrations](#illustrations)
 * [Setup](#setup)
 * [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
@@ -63,5 +62,8 @@ Below are video recordings of test executions:
 ```
 
 
-## Project Status
-Project is: **_in progress_**
+## Acknowledgements
+- This project is based on knowledge that I gained throughout [IT Bootcamp](https://itbootcamp.rs/) course.
+- Many thanks to [IT Bootcamp](https://itbootcamp.rs/) team and my colleagues, for incredible experience. 
+
+
