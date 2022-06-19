@@ -64,7 +64,7 @@ Below are video recordings of test executions:
 
 ## Acknowledgements
 - This project is based on knowledge that I gained throughout [IT Bootcamp](https://itbootcamp.rs/) course.
-- Many thanks to [IT Bootcamp](https://itbootcamp.rs/) team and my colleagues, for incredible experience. 
+- Many thanks to the [IT Bootcamp](https://itbootcamp.rs/) team and my colleagues, for the incredible experience. 
 
 
 ## Contact
